@@ -4,4 +4,4 @@
 
 R and RStudio in repo2docker without waiting for packages to compile!
 
-via conda packaging.
+Via conda packaging.
