@@ -5,6 +5,8 @@ on:
 jobs:
   badge:
     runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
     steps:
       - uses: manics/action-binderbadge@main
         with:
